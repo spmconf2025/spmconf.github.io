@@ -20,6 +20,7 @@ document.write('\
 			<ul class="sub-menu collapse" id="submenu-1-1">\
 				<li class="nav-item"><a href="Venue.html">Venue</a></li>\
 				<li class="nav-item"><a href="Childcare.html">Childcare Services</a></li>\
+				<li class="nav-item"><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html?outside" target=new>Visit Canada</a></li>\
 			</ul>\
 		</li>\
 		<li class="nav-item"><a id="award" href="Award.html" aria-label="Toggle navigation">Bézier Award</a></li>\
