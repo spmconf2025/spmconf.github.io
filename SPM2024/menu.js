@@ -2,21 +2,21 @@ document.write('\
 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">\
 	<ul id="nav" class="navbar-nav ms-auto">\
 		<li class="nav-item">\
-			<a id="about" class="dd-menu collapsed" href="index.html" data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">About</a>\
+			<a id="about" class="dd-menu collapsed" href="index.html" data-bs-toggle="collapse" data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">About</a>\
 			<ul class="sub-menu collapse" id="submenu-1-1">\
 				<li class="nav-item"><a href="index.html">Conference</a></li>\
 				<li class="nav-item"><a href="Organizer.html">Organizers</a></li>\
 			</ul>\
 		</li>\
 		<li class="nav-item">\
-			<a id="program" class="dd-menu collapsed" href="CfP.html" data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Program</a>\
+			<a id="program" class="dd-menu collapsed" href="CfP.html" data-bs-toggle="collapse" data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Program</a>\
 			<ul class="sub-menu collapse" id="submenu-1-1">\
 				<li class="nav-item"><a href="CfP.html">Call for Papers</a></li>\
 				<li class="nav-item"><a href="Program.html">Schedule</a></li>\
 			</ul>\
 		</li>\
 		<li class="nav-item">\
-			<a id="venue" class="dd-menu collapsed" href="Venue.html" data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Travel</a>\
+			<a id="venue" class="dd-menu collapsed" href="Venue.html" data-bs-toggle="collapse" data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Travel</a>\
 			<ul class="sub-menu collapse" id="submenu-1-1">\
 				<li class="nav-item"><a href="Venue.html">Venue</a></li>\
 				<li class="nav-item"><a href="Childcare.html">Childcare Services</a></li>\
