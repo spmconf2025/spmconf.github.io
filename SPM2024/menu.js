@@ -12,6 +12,7 @@ document.write('\
 			<a id="program" class="dd-menu collapsed" href="CfP.html" data-bs-toggle="collapse" data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Program</a>\
 			<ul class="sub-menu collapse" id="submenu-1-1">\
 				<li class="nav-item"><a href="CfP.html">Call for Papers</a></li>\
+				<li class="nav-item"><a href="Poster.html">Call for Posters</a></li>\
 				<li class="nav-item"><a href="Program.html">Schedule</a></li>\
 			</ul>\
 		</li>\
