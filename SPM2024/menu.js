@@ -20,6 +20,7 @@ document.write('\
 			<a id="venue" class="dd-menu collapsed" href="Venue.html" data-bs-toggle="collapse" data-bs-target="#submenu-1-1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Travel</a>\
 			<ul class="sub-menu collapse" id="submenu-1-1">\
 				<li class="nav-item"><a href="Venue.html">Venue</a></li>\
+				<li class="nav-item"><a href="Accommodation.html">Accommodation</a></li>\
 				<li class="nav-item"><a href="Childcare.html">Childcare Services</a></li>\
 				<li class="nav-item"><a href="VisitCanada.html">Visit Canada</a></li>\
 			</ul>\
