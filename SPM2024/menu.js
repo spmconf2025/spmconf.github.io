@@ -13,7 +13,7 @@ document.write('\
 			<ul class="sub-menu collapse" id="submenu-1-1">\
 				<li class="nav-item"><a href="CfP.html">Call for Papers</a></li>\
 				<li class="nav-item"><a href="Poster.html">Call for Posters</a></li>\
-				<li class="nav-item"><a href="CAD.html">Presentation-only JCAD Papers</a></li>\
+				<li class="nav-item"><a href="CAD.html">Presentation-only Papers</a></li>\
 				<li class="nav-item"><a href="Program.html">Schedule</a></li>\
 			</ul>\
 		</li>\
