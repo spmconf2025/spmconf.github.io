@@ -24,6 +24,7 @@ document.write('\
 				<li class="nav-item"><a href="Accommodation.html">Accommodation</a></li>\
 				<li class="nav-item"><a href="Childcare.html">Childcare Services</a></li>\
 				<li class="nav-item"><a href="VisitCanada.html">Visit Canada</a></li>\
+				<li class="nav-item"><a href="Local.html">Local Info</a></li>\
 			</ul>\
 		</li>\
 		<li class="nav-item"><a id="award" href="Award.html" aria-label="Toggle navigation">Bézier Award</a></li>\
