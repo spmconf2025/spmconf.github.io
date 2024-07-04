@@ -27,7 +27,7 @@ document.write('\
 				<li class="nav-item"><a href="Local.html">Local Info</a></li>\
 			</ul>\
 		</li>\
-		<li class="nav-item"><a id="award" href="Award.html" aria-label="Toggle navigation">Bézier Award</a></li>\
+		<!--<li class="nav-item"><a id="award" href="Award.html" aria-label="Toggle navigation">Bézier Award</a></li>-->\
 		<li class="nav-item"><a id="keynote" href="Keynote.html" aria-label="Toggle navigation">Keynotes</a></li>\
 		<li class="nav-item"><a id="sponsor" href="Sponsor.html" aria-label="Toggle navigation">Sponsor</a></li>\
 		<li class="nav-item"><a href="http://solidmodeling.org/spm-conferences/" target="new" aria-label="Toggle navigation">Previous Conferences</a></li>\
